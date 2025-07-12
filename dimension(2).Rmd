@@ -1,11 +1,7 @@
-# Modern Dimension Reduction (Cambridge University Press)
-# Philip D. Waggoner, pdwaggoner@uchicago.edu
 
-# Section 2: Starting with PCA
 library(readxl)
 anes_imputed <- read_csv("~/Downloads/df_imputed.csv")
 
-# Packages needed for this section:
 install.packages(c("tidyverse", "here", "corrr", "amerika",
                    "factoextra", "patchwork", "ggrepel"))
 
