@@ -3,5 +3,5 @@ main dataset – массивых данных (!) авторов статьи �
 dimension(1) – страшные попытки разобраться в этом файле  
 dimension1 – код в питоне на массивых данных (!) из учебника  
 df_imputed – страшный результат деятельности в R  
-Ссылка на конспект – https://ru.overleaf.com/read/hkmhgqgrpxbf#aeed9d
+Ссылка на конспект – https://ru.overleaf.com/read/hkmhgqgrpxbf#aeed9d  
 dimension(2) – код в R по главе 2 с новым массивом данных
